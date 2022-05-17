@@ -158,6 +158,11 @@ nav ul li:hover{
         display: flex;
         justify-content: center;
     }
+
+    .video{
+        width: 560px; 
+        height: 315px;
+    }
 }
 
 /*html miembros*/
