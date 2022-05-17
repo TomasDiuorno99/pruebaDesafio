@@ -68,6 +68,8 @@ nav ul li:hover{
 .video{
     grid-area: video;
     margin-top: 1rem;
+    width: 460px; 
+    height: 215px;
 }
 
 .bbc{
